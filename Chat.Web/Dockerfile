@@ -19,4 +19,5 @@ RUN dotnet publish "Chat.Web.csproj" -c Release -o /app/publish
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "Chat.Web.dll"]
+#ENTRYPOINT ["dotnet", "Chat.Web.dll"]
+CMD ASPNETCORE_URLS=http://*:$PORT dotnet Chat.Web.dll
