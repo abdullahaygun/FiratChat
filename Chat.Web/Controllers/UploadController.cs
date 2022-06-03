@@ -56,7 +56,7 @@ namespace Chat.Web.Controllers
                     return BadRequest("Validation failed!");
                 }
 
-                var fileName = DateTime.Now.ToString("yyyymmddMMss") + "_" + Path.GetFileName(uploadViewModel.File.FileName);
+                var fileName = DateTime.UtcNow.ToString("yyyymmddMMss") + "_" + Path.GetFileName(uploadViewModel.File.FileName);
                 var folderPath = Path.Combine(_environment.WebRootPath, "uploads");
                 var filePath = Path.Combine(folderPath, fileName);
                 if (!Directory.Exists(folderPath))
@@ -80,7 +80,7 @@ namespace Chat.Web.Controllers
                 var message = new Message()
                 {
                     Content = Regex.Replace(htmlImage, @"(?i)<(?!img|a|/a|/img).*?>", string.Empty),
-                    Timestamp = DateTime.Now,
+                    Timestamp = DateTime.UtcNow,
                     FromUser = user,
                     ToRoom = room
                 };

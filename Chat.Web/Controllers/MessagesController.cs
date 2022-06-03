@@ -79,7 +79,7 @@ namespace Chat.Web.Controllers
                 Content = Regex.Replace(messageViewModel.Content, @"<.*?>", string.Empty),
                 FromUser = user,
                 ToRoom = room,
-                Timestamp = DateTime.Now
+                Timestamp = DateTime.UtcNow
             };
 
             _context.Messages.Add(msg);
