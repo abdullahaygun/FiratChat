@@ -74,7 +74,7 @@ namespace Chat.Web
             {
                 endpoints.MapRazorPages();
                 endpoints.MapControllers();
-                endpoints.MapHub<ChatHub>("/signalr");
+                endpoints.MapHub<ChatHub>("/chatHub");
             });
         }
     }

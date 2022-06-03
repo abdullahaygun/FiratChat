@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace Chat.Web.Hubs
 {
-    [Authorize]
+    //[Authorize]
     public class ChatHub : Hub
     {
         public readonly static List<UserViewModel> _Connections = new List<UserViewModel>();
