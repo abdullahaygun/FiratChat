@@ -52,7 +52,7 @@ Fiziksel olarak ise:
 [APK](https://drive.google.com/file/d/1zGWY9RLBUaQFybPLdAjLrZ4tBMB4IAXS/view?usp=sharing "APK")
 
 API 30,31,32 - Android 11, 12 de test edilmiştir. Sorunsuz bir şekilde açılmaktadır.
-#### **Proje tanıtım videosu (20 puan): **
+#### **Proje tanıtım videosu (20 puan):**
 **https://youtu.be/J-cjBgy7Q_U**
 #### **Dokümanlar (40 puan):**
 ###### **- Beta Sürümü:**
