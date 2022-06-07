@@ -50,11 +50,14 @@ Fiziksel olarak ise:
 ## 1. Engelleri Kaldıralım Projesi
 #### **İndirilebilir ve çalışan bir APK dosyası (30 puan):**
 [APK](https://drive.google.com/file/d/1zGWY9RLBUaQFybPLdAjLrZ4tBMB4IAXS/view?usp=sharing "APK")
+
 API 30,31,32 - Android 11, 12 de test edilmiştir. Sorunsuz bir şekilde açılmaktadır.
-#### **Proje tanıtım videosu (20 puan): ** https://youtu.be/J-cjBgy7Q_U
+#### **Proje tanıtım videosu (20 puan): **
+**https://youtu.be/J-cjBgy7Q_U**
 #### **Dokümanlar (40 puan):**
 ###### **- Beta Sürümü:**
 Anlatım videosu: [Beta Videosu](https://youtu.be/2LbZlaaEazs "Beta Videosu")
+
 Kaynak Kod: [Beta Kaynak Kod](https://github.com/abdullahaygun/FiratChat "Beta Kaynak Kod")
 ###### **- Sunum ve Slaytlar:** [MessageApp.pptx](https://docs.google.com/presentation/d/1DxWYk779vOtbBa5lhjN674uCXKz6D-Yr/edit?usp=sharing&ouid=113278678872864919279&rtpof=true&sd=true "MessageApp.pptx")
 ###### **- Kullanıcı Kılavuzu Dokümanı:** [Users_Guide.docx](https://docs.google.com/document/d/1-5DHOBUAo_TiI_8FEjIzaNaMMhkccL-l/edit?usp=sharing&ouid=113278678872864919279&rtpof=true&sd=true "Users_Guide.docx")
