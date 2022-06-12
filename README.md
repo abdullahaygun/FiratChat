@@ -60,7 +60,7 @@ Anlatım videosu: [Beta Videosu](https://youtu.be/2LbZlaaEazs "Beta Videosu")
 
 Kaynak Kod: [Beta Kaynak Kod](https://github.com/abdullahaygun/FiratChat "Beta Kaynak Kod")
 ###### **- Sunum ve Slaytlar:** [MessageApp.pptx](https://docs.google.com/presentation/d/1DxWYk779vOtbBa5lhjN674uCXKz6D-Yr/edit?usp=sharing&ouid=113278678872864919279&rtpof=true&sd=true "MessageApp.pptx")
-###### **- Kullanıcı Kılavuzu Dokümanı:** [Users_Guide.docx](https://docs.google.com/document/d/1-5DHOBUAo_TiI_8FEjIzaNaMMhkccL-l/edit?usp=sharing&ouid=113278678872864919279&rtpof=true&sd=true "Users_Guide.docx")
+###### **- Kullanıcı Kılavuzu Dokümanı:** [Users_Guide.docx](https://docs.google.com/document/d/10yAMsUHAsbVtb3AX5wWyAGNSMTSKHqbl/edit?usp=sharing&ouid=113278678872864919279&rtpof=true&sd=true "Users_Guide.docx")
 ###### **- Programcı Kılavuzu Dokümanı:** [Programmers_Guide.docx](https://docs.google.com/document/d/1-5DHOBUAo_TiI_8FEjIzaNaMMhkccL-l/edit?usp=sharing&ouid=113278678872864919279&rtpof=true&sd=true "Programmers_Guide.docx")
 ###### **- Ürün Değerlendirme Belgesi:** [Product_Eval.docx](https://docs.google.com/document/d/1m2iMRUfvTKyFthhkDvvoWihmyor0tZK_/edit?usp=sharing&ouid=113278678872864919279&rtpof=true&sd=true "Product_Eval.docx")
 ###### **- Proje Değerlendirme Dokümanı:** [Project_Eval.docx](https://docs.google.com/document/d/1vVjewmVlY-TG0exvQYqecA3ZPT-DjL7D/edit?usp=sharing&ouid=113278678872864919279&rtpof=true&sd=true "Project_Eval.docx")
